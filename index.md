@@ -1,6 +1,6 @@
 [Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/Images/) &nbsp;   [How To](https://undrestoker.github.io/How-To/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://undrestoker.github.io/Contact/)
 
-<h1 align="center"> How-to Shoot a Basketball! </h1>
+<h1 align="center"> How-to Shoot a Basketball </h1>
 
 <p style='text-align: justify;'> I am a huge basketball fan and have been playing since the age of 6. The game of basketball is fairly simple in essence. The objective is to outscore your oponent and win the game. Pretty simple concept if you ask me. In order to score, you must place the ball into the hoop. Again, pretty simple right? There are a few ways you can get the ball into the hoop. The basic 3 are the jumpshot, the layup, and the dunk. Now there are several styles of each category but below will demonstrate the basic jumpshot. 
   
@@ -41,11 +41,19 @@
 
 <h3 align="left"> Part 1 </h3> Locate the target. If you want the ball to go into the net, then you need to look at the net. If you’re planning to bank the ball in off the backboard, then look at the spot on the backboard you want to hit. Your eyes are an incredibly important part of a good shot in basketball.
 
+![Screen Shot 2021-10-20 at 6 15 46 PM](https://user-images.githubusercontent.com/91627769/138185347-403db4cd-2613-4560-bda2-7386902bc288.png)
+
 <h3 align="left"> Part 2 </h3> Straighten your knees and jump. Use your legs to help propel the ball by jumping upward while your shooting hand launches the ball and your shoulders lean back. Move your legs, torso, and arms together in a coordinated fashion to take the shot.
+
+![Screen Shot 2021-10-20 at 6 16 33 PM](https://user-images.githubusercontent.com/91627769/138185396-4a398262-9209-4577-9164-edfc0aa79cc5.png)
 
 <h3 align="left"> Part 3 </h3> Jump slightly forward when you shoot, making sure your shoulders lean back and are relaxed. Your feet shouldn't land in the same position where they started because it will cause a lot of tension in your neck and shoulders. Jumping forward will also give your ball more arc.
 
+![Screen Shot 2021-10-20 at 6 17 14 PM](https://user-images.githubusercontent.com/91627769/138185462-ccec1dd8-6f75-46b5-9593-75ecf82c9105.png)
+
 <h3 align="left"> Part 4 </h3> Push the ball upward with your shooting hand. As your hips rise up and you start your jumping motion, move the ball in a smooth motion from your dip to eye level. It should all be one smooth motion. Your hips rise as your elbow rises with the ball, and you should turn anywhere from 20-90 degrees towards your off hand.
+
+![Screen Shot 2021-10-20 at 6 17 57 PM](https://user-images.githubusercontent.com/91627769/138185522-0459e516-d115-43c6-845a-d05433882517.png)
 
 <h3 align="left"> Part 5 </h3> Release the ball. Just before you reach the height of your jump, release the ball, with your shooting hand aimed at the basket. Straighten your elbow and push your wrist so that the ball arches, rather than moving toward the basket in a straight line. As you release the ball, your guiding hand should move to lightly touch your shooting arm just below the wrist.
 
@@ -53,6 +61,9 @@
 
 
 
+<h1 align="center"> Resources </h1>
 
+
+https://www.wikihow.com/Shoot-a-Basketball 
 
  [Steph Curry](https://www.youtube.com/watch?v=dsS-FSQopqQ) 
