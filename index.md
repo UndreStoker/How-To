@@ -17,7 +17,7 @@
 
 <h3 align="left"> Part 1 </h3> Keep your feet no further than shoulder width apart, preferably closer together, and slightly staggered.[1] You should put your shooting foot very slightly ahead of your non-shooting foot. Your shooting foot is the foot on the same side as your shooting arm – if you’re right handed, it will be your right foot. Your feet should be turned 10 to 45 degrees towards your off hand side, and your shoulder, hip, and elbow should be aligned with the basket.
 
-![Screen Shot 2021-10-20 at 5 53 38 PM](https://user-images.githubusercontent.com/91627769/138184751-dd3f0c39-fa9a-410e-ae12-e426d045ab8a.png)
+![Screen Shot 2021-10-20 at 6 21 58 PM](https://user-images.githubusercontent.com/91627769/138185821-e028b030-a301-4840-82c9-ebab2b66ad54.png)
 
 <h3 align="left"> Part 2 </h3> Flex your knees slightly. Locking your knees makes it easy for you to get knocked off balance. Flex your knees comfortably so you're in position to jump as soon as you have the ball.
 
