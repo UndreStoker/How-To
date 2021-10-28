@@ -4,11 +4,17 @@
 
 <h1 align="center"> How-to Shoot a Basketball </h1>
 
+[comment]: # (Intro Paragraph) 
+
 <p style='text-align: justify;'> I am a huge basketball fan and have been playing since the age of 6. The game of basketball is fairly simple in essence. The objective is to outscore your oponent and win the game. Pretty simple concept if you ask me. In order to score, you must place the ball into the hoop. Again, pretty simple right? There are a few ways you can get the ball into the hoop. The basic 3 are the jumpshot, the layup, and the dunk. Now there are several styles of each category but below will demonstrate the basic jumpshot. 
   
   Once you've mastered the basics you can begin to add your own personal twist to it and who's knows, you may become the next Steph Curry! And if you don't know who Steph Curry is you've probably been living under a rock for about the past 10 years but that's ok, I've included a link at the bottom of the page to help you get familiar </p>
   
+  [comment]: # (Start of Multimedia Section) 
+  
 <h1 align="center"> How-to Shoot a Basketball Instructional Video </h1>
+
+[comment]: # (YouTube Video)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SyvuSxCyfi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
